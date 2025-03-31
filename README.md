@@ -1,6 +1,6 @@
 👋 Hi, I’m Adam Hussain  
 
-💻 My main interests involve programming and learning about new and innovative technologies 
+💻 My main interests involve bioinformatics and data science
 
 🌴 I’m currently learning C/C++ and plan to move onto Javascript to widen my scope 
 
